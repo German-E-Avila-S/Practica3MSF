@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=German-E-Avila-S/Practica3MSF)
 
-# Práctica: Sistema cardiovascular
+# Práctica 3: Sistema Musculoesqueletico
 
 ## Información de la estudiante
 Avila S. German E. 22212250 l22212250@tectijuana.edu.mx
