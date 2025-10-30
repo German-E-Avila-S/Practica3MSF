@@ -10,13 +10,14 @@ authors:
     family-names: Avila Sanchez
     email: l222212250@tijuana.tenm.mx
     affiliation: TECNM-ITT
-repository-code: 'https://github.com/German-E-Avila-S/Practica2MSF/tree/main'
+repository-code: 'https://github.com/German-E-Avila-S/Practica3MSF'
 keywords:
-  - Sistema Cardiovascular
+  - Modelo músculo-mecánico
   - Controlador PI
   - Modelo matematico
   - Simulaciones numericas
   - Modelo de Windkessel
+  - Sistema musculoesqueletico
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-17'
+date-released: '2025-10-30'
