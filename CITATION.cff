@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: Lenguaje m;python
+type: software
+authors:
+  - given-names: 'German Emmanuel '
+    family-names: Avila Sanchez
+    email: l222212250@tijuana.tenm.mx
+    affiliation: TECNM-ITT
+repository-code: 'https://github.com/German-E-Avila-S/Practica2MSF/tree/main'
+keywords:
+  - Sistema Cardiovascular
+  - Controlador PI
+  - Modelo matematico
+  - Simulaciones numericas
+  - Modelo de Windkessel
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-17'
