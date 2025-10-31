@@ -2,7 +2,7 @@
 
 # Práctica 3: Sistema Musculoesqueletico
 
-## Información de la estudiante
+## Información del estudiante
 Avila S. German E. 22212250 l22212250@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
